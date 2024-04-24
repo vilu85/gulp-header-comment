@@ -50,7 +50,7 @@
     "gulp-conventional-changelog": "4.0.0",
     "gulp-jasmine": "4.0.0",
     "gulp-sourcemaps": "3.0.0",
-    "jasmine": "3.6.1",
+    "jasmine": "5.1.0",
     "jasmine-core": "5.1.2",
     "rimraf": "5.0.5",
     "tmp": "0.2.3",
